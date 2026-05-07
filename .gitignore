@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.mlvenv/
+.mlvenv
+.vscode/
+
+lab_dataset/
+models/
+.ipynb_checkpoints/
+
+*.pth
+*.pt
+*.h5
